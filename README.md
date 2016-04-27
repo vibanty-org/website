@@ -2,13 +2,17 @@
 
 This is my awesome website
 
+# Getting Started
+
 # Introduction
 
 welcome
 And be good
 
 # Details
+TBD
 
-# Training
-To be discussed
+# Copyright
+
+2016 Git Training
 

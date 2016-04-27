@@ -7,3 +7,4 @@ This is my awesome website
 welcome
 
 # Copyright
+2016 Git Training

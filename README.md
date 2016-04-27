@@ -2,11 +2,12 @@
 
 This is my awesome website
 
-# Introduction
+# Purpose
 
-welcome
+problematic changes
 
 # Details
 
 # Training
 To be discussed
+

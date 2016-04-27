@@ -2,9 +2,11 @@
 
 This is my awesome website
 
-# Introduction
+# Repository Purpose
 
-welcome
+This change will conflict with whatever is on 
+the remote side of things. 
+This is a local edit
 
 # Details
 

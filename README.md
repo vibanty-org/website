@@ -2,13 +2,12 @@
 
 This is my awesome website
 
-# Repository Purpose
+# Introduction
 
-This change will conflict with whatever is on 
-the remote side of things. 
-This is a local edit
+welcome
 
 # Details
 
 # Training
 To be discussed
+

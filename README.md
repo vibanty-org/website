@@ -9,6 +9,7 @@ And be good
 
 # Details
 
-# Training
-To be discussed
+# Copyright
+
+2016 Git Training
 

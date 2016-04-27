@@ -8,5 +8,5 @@ welcome
 
 # Details
 
-# Copyright
-2016 Git Training
+# Training
+To be discussed

@@ -6,5 +6,7 @@ This is my awesome website
 
 welcome
 
+# Details
+
 # Copyright
 2016 Git Training
